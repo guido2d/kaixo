@@ -179,14 +179,14 @@ img {
     width: 450px;
   }
 
-  /* .header-logo a img {
-    width: 85px;
-    height: auto;
+  .header-logo a img {
+    height: 100px;
+    width: auto;
   }
 
   .header-logo {
     margin: 0 !important;
-  } */
+  }
 }
 
 @media only screen and (max-width: 575px) {
