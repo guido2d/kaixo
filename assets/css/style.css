@@ -178,6 +178,14 @@ img {
   .container {
     width: 450px;
   }
+
+  .header-logo a img {
+    width: 80px;;
+  }
+
+  .header-logo {
+    margin: 0 !important;
+  }
 }
 
 @media only screen and (max-width: 575px) {
@@ -757,7 +765,7 @@ div#fp-nav li:hover .fp-tooltip::before {
 }
 
 .header-logo a img {
-  max-width: 100%;
+  max-width: 200px;
 }
 
 .header-logo a img.light-logo {
@@ -1179,7 +1187,7 @@ div#fp-nav li:hover .fp-tooltip::before {
 /*-- Side Header Logo --*/
 .side-header-logo {
   margin-bottom: 30px;
-  margin-top: 30px;
+  margin-top   : 30px;
 }
 
 .side-header-logo a {
