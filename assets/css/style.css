@@ -31,7 +31,7 @@
 /*  01. Theme default CSS
 /*----------------------------------------*/
 /*-- Google Font --*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,600,600i,800");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,600,600i,800");
 
 /*-- Common Style --*/
 *,
@@ -54,7 +54,7 @@ body {
   font-style      : normal;
   font-weight     : normal;
   visibility      : visible;
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   color           : #555555;
   position        : relative;
 }
@@ -65,7 +65,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color      : #333333;
   font-weight: 400;
   margin-top : 0;
@@ -181,7 +181,7 @@ img {
 
   .header-logo a img {
     height: 100px;
-    width: auto;
+    width : auto;
   }
 
   .header-logo {
@@ -504,7 +504,7 @@ div#fp-nav li .fp-tooltip {
   color           : #ffffff;
   font-weight     : 600;
   font-size       : 12px;
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   line-height     : 24px;
   text-transform  : uppercase;
   background-color: #333333;
@@ -790,7 +790,7 @@ div#fp-nav li:hover .fp-tooltip::before {
 
 .main-menu>ul>li>a {
   display           : block;
-  font-family       : "Poppins", sans-serif;
+  font-family       : "Open Sans", sans-serif;
   font-size         : 14px;
   line-height       : 30px;
   font-weight       : 500;
@@ -861,7 +861,7 @@ div#fp-nav li:hover .fp-tooltip::before {
 
 .sub-menu li a {
   display       : block;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 20px;
   text-transform: capitalize;
@@ -1215,7 +1215,7 @@ nav.side-menu>ul>li {
 
 nav.side-menu>ul>li>a {
   display       : block;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 24px;
   font-weight   : 500;
@@ -1263,7 +1263,7 @@ nav.side-menu>ul>li:last-child {
 
 .side-sub-menu>li>a {
   display       : block;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 24px;
   font-weight   : 400;
@@ -1312,7 +1312,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .side-header-contact-info p {
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 13px;
   line-height   : 24px;
   letter-spacing: 0.75px;
@@ -1361,7 +1361,7 @@ nav.side-menu>ul>li:last-child {
 
 /*-- Side Header Copyright --*/
 .side-header-copyright p {
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 24px;
   letter-spacing: 0.75px;
@@ -1422,7 +1422,7 @@ nav.side-menu>ul>li:last-child {
   max-width     : 720px;
   font-size     : 22px;
   line-height   : 34px;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   color         : #333333;
   letter-spacing: 1px;
   margin        : auto;
@@ -1794,7 +1794,7 @@ nav.side-menu>ul>li:last-child {
   font-size     : 14px;
   line-height   : 1;
   color         : #555555;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   letter-spacing: 1px;
   margin-bottom : 12px;
 }
@@ -1822,7 +1822,7 @@ nav.side-menu>ul>li:last-child {
   font-size     : 14px;
   line-height   : 1;
   color         : #555555;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   letter-spacing: 1px;
 }
 
@@ -2201,7 +2201,7 @@ nav.side-menu>ul>li:last-child {
   line-height  : 1;
   display      : inline-block;
   margin-bottom: 15px;
-  font-family  : "Poppins", sans-serif;
+  font-family  : "Open Sans", sans-serif;
 }
 
 .portfolio-details-content .category:hover {
@@ -2318,7 +2318,7 @@ nav.side-menu>ul>li:last-child {
   font-size  : 14px;
   color      : #555555;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .portfolio-details-content .project-nav a span {
@@ -2327,7 +2327,7 @@ nav.side-menu>ul>li:last-child {
   color         : #333333;
   text-transform: capitalize;
   font-weight   : 400;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
 }
 
 .portfolio-details-content .project-nav a.prev-project {
@@ -2430,7 +2430,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .blog-item .blog-content .read-more a {
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 24px;
   font-weight   : 600;
@@ -2445,7 +2445,7 @@ nav.side-menu>ul>li:last-child {
 /*-- Load More Button --*/
 .load-blog-btn {
   display       : inline-block;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 16px;
   line-height   : 1;
   font-weight   : 600;
@@ -2516,7 +2516,7 @@ nav.side-menu>ul>li:last-child {
   line-height : 24px;
   color       : #555555;
   margin-right: 35px;
-  font-family : "Poppins", sans-serif;
+  font-family : "Open Sans", sans-serif;
 }
 
 .blog-item-details .blog-content .blog-meta li a {
@@ -2607,7 +2607,7 @@ nav.side-menu>ul>li:last-child {
   font-size     : 16px;
   font-weight   : 600;
   line-height   : 24px;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   margin        : 3px 0;
   color         : #555555;
 }
@@ -2730,7 +2730,7 @@ nav.side-menu>ul>li:last-child {
   font-size       : 14px;
   line-height     : 18px;
   color           : #555555;
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   float           : left;
   padding-bottom  : 10px;
   padding-right   : 30px;
@@ -2916,7 +2916,7 @@ nav.side-menu>ul>li:last-child {
   color         : #333333;
   font-size     : 13px;
   line-height   : 1;
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   margin-bottom : 15px;
   text-transform: capitalize;
 }
@@ -2937,7 +2937,7 @@ nav.side-menu>ul>li:last-child {
 
 .single-comment .reply a {
   font-size  : 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 18px;
   color      : #333333;
 }
@@ -2965,7 +2965,7 @@ nav.side-menu>ul>li:last-child {
 
 /*-- Comment Form --*/
 .comment-form input {
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   display         : block;
   width           : 100%;
   border-width    : 0 0 2px;
@@ -3003,7 +3003,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .comment-form textarea {
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   display         : block;
   width           : 100%;
   height          : 80px;
@@ -3126,7 +3126,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .contact-form input {
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   display         : block;
   width           : 100%;
   border-width    : 0 0 2px;
@@ -3163,7 +3163,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .contact-form textarea {
-  font-family     : "Poppins", sans-serif;
+  font-family     : "Open Sans", sans-serif;
   display         : block;
   width           : 100%;
   height          : 80px;
@@ -3201,7 +3201,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .contact-info ul li {
-  font-family   : "Poppins", sans-serif;
+  font-family   : "Open Sans", sans-serif;
   font-size     : 14px;
   line-height   : 24px;
   letter-spacing: 1px;
@@ -5138,4 +5138,8 @@ only screen and (max-width: 767px) {
 
 .color-var-4 .footer-search form button:hover {
   color: #e59701;
+}
+
+.about-section {
+  background-image: url('../images/bg/house.png');
 }
