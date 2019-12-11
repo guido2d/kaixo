@@ -5139,7 +5139,3 @@ only screen and (max-width: 767px) {
 .color-var-4 .footer-search form button:hover {
   color: #e59701;
 }
-
-.about-section {
-  background-image: url('../images/bg/house.png');
-}
