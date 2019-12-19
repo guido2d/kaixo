@@ -1216,7 +1216,7 @@ nav.side-menu>ul>li {
 nav.side-menu>ul>li>a {
   display       : block;
   font-family   : "Open Sans", sans-serif;
-  font-size     : 14px;
+  font-size     : 15px;
   line-height   : 24px;
   font-weight   : 500;
   letter-spacing: 0.5px;
@@ -5138,4 +5138,13 @@ only screen and (max-width: 767px) {
 
 .color-var-4 .footer-search form button:hover {
   color: #e59701;
+}
+
+.fsize16{
+  font-size: 16px;
+}
+
+.main-title-home h3{
+  font-size: 18px;
+  line-height: 22px;
 }
