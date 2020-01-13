@@ -1888,7 +1888,7 @@ nav.side-menu>ul>li:last-child {
 }
 
 .service-item p {
-  max-width: 360px;
+  /* max-width: 360px; */
 }
 
 .service-item:last-child {
