@@ -1099,7 +1099,7 @@ div#fp-nav li:hover .fp-tooltip::before {
 
 /*-- Side Header --*/
 .side-header {
-  background-color  : #ffffff;
+  background-color  : #fbfbfb;
   border-right      : 1px solid #f6f6f6;
   width             : 320px;
   height            : 100%;
@@ -5145,6 +5145,31 @@ only screen and (max-width: 767px) {
 }
 
 .main-title-home h3{
-  font-size: 18px;
+  font-size: 20px;
   line-height: 22px;
+  margin-top: 15px;
+}
+
+.md-only {
+  display: none;
+}
+
+@media only screen and (max-width: 1280px) {
+  .md-only {
+    display: unset;
+  }
+}
+
+.btn-whatsapp {
+  position: fixed;
+  padding: 12px 13px;
+  color: white;
+  background-color: #4dc247;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  z-index: 99999;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  bottom: 20px;
+  right: 20px;
 }

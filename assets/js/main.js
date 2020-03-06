@@ -90,7 +90,7 @@ $('#fullpage').fullpage({
     scrollOverflow: true,
     navigation: true,
     verticalCentered: false,
-    navigationTooltips: ['Home', 'About', 'Service', 'Portfolio', 'Blog', 'Contact'],
+    navigationTooltips: ['Inicio', '¿Qué hacemos?', 'Servicios', 'Bios', 'Contacto'],
     responsiveWidth: 991,
 });
 
